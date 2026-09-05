@@ -9,7 +9,7 @@ from map_builder import generate_hazard_map
 
 # Page Setup
 st.set_page_config(
-    page_title="HimalayaGuard AI | Sikkim Landslide EWS",
+    page_title="HimalayanShield AI | Sikkim Landslide EWS",
     page_icon="🛡️",
     layout="wide",
     initial_sidebar_state="expanded"
